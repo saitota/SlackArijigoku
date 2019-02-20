@@ -1,0 +1,21 @@
+{
+    "token": "0x0x0x0x0x0x0x0x0x0x0x0x0",
+    "team_id": "Txxxxxx",
+    "api_app_id": "Axxxxx",
+    "event": {
+        "user": "Uxxxxxxxx",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1549780000.000900",
+        "text": "<@Uxxxxxxxx5> has left the channel",
+        "channel": "Cxxxxxxx",
+        "event_ts": "1549780000.000900",
+        "channel_type": "channel"
+    },
+    "type": "event_callback",
+    "event_id": "Evxxxxxxx",
+    "event_time": 1549780000,
+    "authed_users": [
+        "Uxxxxxx"
+    ]
+}
